@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+examples/bundle.js
+yarn.lock
+package-lock.json
+
+/__tests__/*
